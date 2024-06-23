@@ -1,0 +1,95 @@
+Pagina 9: Elfi alti da 1,50m a 1,70m
+Pagina 15 - Fiaschetta 0,25 kg
+Pagina 18 - Benedizione, aggiungere alla fine di Malasorte "Possono provare ad evitare l'effetto con un tiro salvezza contro incantesimi".
+Pagina 19 - Controllo del tempo atmosferico, aggiungere alla fine: "L'area interessata è di 4d4 * 2,5 km quadrati".
+Pagina 39 - Terreno Illusorio: Aggiungere alla fine: "L'area influenzata è di 3 metri quadrati per livello".
+Pagina 65 - Brontoterio: Ferite: 2d6 o 3d8
+Pagina 66 - Cavernicolo:  Ferite: 2d4 o arma+1
+Pagina 97 - Statua Animata: La statua di ferro ha CA 2
+Pagina 98 - Stegosauro: Ferite: 2d8 o 2d8
+Pagina 101 - Uomo Albero: Morale 9
+Pagina 104 - Viverna: Ferite: 2d8/1d6 più veleno
+Pagina 108 - Riga 84-85 Guarigione migliorata
+Pagina 114 - Anello della Telecinesi: Aggiungere alla fine: "Può sollevare fino a 90 kg".
+Pagina 116 - Bacchetta del freddo: sostituire "3d6" con "6d6" -> Le creature subiscono 6d6 ferite, no 3d6
+Pagina 118 - Corno della distruzione: aggiungere alla fine "Le creature sono assordate per un turno".
+Pagina 118 - Cubo di forza: Aggiungere alla tabella "Tipo di Attacco" - "Cariche"
+
+Colpo infuocato - 3
+Proiettile tipo catapula - 1
+Spruzzo prismatico - 7
+Tempesta di fuoco - 3
+
+Pagina 121 - Spada +1, fiammeggiante: Sostituire "creature immuni al fuoco" con "creature deboli al fuoco".
+Pagina 127 - La ricerca magica: Sostituire "I personaggi possono creare solo gli oggetti magici utilizzabili dalla loro classe." con "I personaggi non possono creare oggetti magici che duplicano gli effetti unici di altre classi. Per esempio, un mago non può creare un Bastone guaritore, o un chierico non può creare una Bacchetta delle palle di fuoco"
+
+REGOLE AVANZATE
+
+Pagina 6A: Elfi alti da 1,50m a 1,70m
+Pagina 8A: Mezzelfi alti 1,50m a 1,70m
+Pagina 18A - Paladino, tabella punti vita dopo 10 livello, cambiare i modificatori con:
++2, +4, +6, +8, +10, +12, +14, +16, +18, +20, +22
+Pagina 25A - Birra scura, birra chiara, Idromele, Vino comune, Vino buono 0,75 kg
+Pagina 34A - Glifo di interdizione : Secondo paragrafo, ultima frase prima del paragrafo "glifo esplosivo", aggiungere: "La durata è permanente fino a quando il glifo viene fatto scattare".
+Pagina 41A - Calappio : Aggiungere alla fine: "La durata è permanente fino a quando il calappio viene fatto scattare".
+Pagina 51A - Immagini speculari : Aggiungere alla fine "Crea 1d4+1 repliche illusorie".
+Pagina 52A - Invisibilità migliorata: Correggere il livello: 4*.
+Pagina 52A - Muro prismatico: Aggiungere alla fine "Il muro può essere largo 1,20 m per livello e alto 60 cm per livello".
+Pagina 56A - Antipatia/Simpatia: Aggiungere alla fine della descrizione principale, prima di "antipatia": "Il luogo designato può essere grande al massimo 3 metri cubici per livello. Se l'incantesimo è lanciato su un oggetto, i tiri salvezza per resistere all'incantesimo soffrono di una penalità -2".
+Pagina 56A - Autocontrollo mnemonico : Durata: 1 giorno
+Pagina 60A - Comprensione dei linguaggi: invertire Durata e Gittata.
+Pagina 60A - Cono di Freddo: Aggiungere alla fine "E' consentito un tiro salvezza per dimezzare il danno."
+Pagina 63A - Evoca Famiglio: Gittata: 1,5 km per livello
+Pagina 66A - Giara magica: sostituire "un alto corpo" -> "un altro corpo".
+Pagina 71A - Metamorfosi : il titolo diventa "Metamorfosi Funesta".
+Pagina 72A - Metamorfosi assoluta: Primo rigo, sostituire "Metamorfosi" con "Metamorfosi funesta".
+Pagina 75A - Porta dimensionale: Aggiungere alla fine "Se la creatura non è consenziente, può provare un tiro salvezza per evitare l'incantesimo".
+Pagina 77A - Resistenza alla magia: sostituire l'ultima frase con: "L'incantatore può proteggere una singola creatura per 1 turno ogni 4 livelli oppure può suddividere la durata tra le varie creature".
+Pagina 77A - Rune esplosive: Aggiungere alla fine "Le rune sono permanenti finchè non scattano".
+Pagina 77A - Schermo mentale : Durata: 1 giorno
+Pagina 78A - Scrivere: aggiungere dopo "Il tiro salvezza subisce una penalità -2 se supera di 3 livelli o più quelli già lanciabili dal Mago" la frase "più un -1 ogni livello dopo il terzo: -2 se supera di 4 livello, -3 se supera di 5 e così via".
+Pagina 79A - Sfera Prismatica: secondo paragrafo: sostituire "(che ha un diametro di 3 m)" con "(che ha un diametro di 6 m)"
+Colore sfera prismatica:
+Rosso Colore Dissolto da "Cono di Freddo"
+Arancione Colore Dissolto da "Folata di Vento"
+indaco -> Indaco
+Pagina 79A - Simbolo Arcano: Simbolo della Pazzia: sostituire "(solo guarigione o desiderio possono rimuovere la pazzia)" con "(Solo guarigione, desiderio o ristorare possono rimuovere la pazzia)"
+Pagina 82A - Trappola Apparente: Durata: Permanente
+Pagina 82A - Trappola di fuoco: Durata: Vedi sotto. Aggiungere alla fine "La durata è permanente fino allo scattare della trappola".
+Pagina 83A - Verbo che acceca: Aggiungere dopo "cecità in una o più creature a sua scelta"  "nel diametro di 9 m".
+Pagina 86A - Lista incantesimi maghi, livello 5: aggiungere "8. Crescita Animale" (e spostare i rimanenti di sotto)
+Pagina 94A - Corda strozzatrice: Aggiungere prima dell'ultima frase: "I bersagli possono provare un tiro salvezza contro incantesimi per evitare di essere strangolati"
+Pagina 99A - Piuma magica: Sostituire "E' un'arma con bonus +1 che non infligge ferite" con "E' un arma magica che infligge 1d6+1 danni. Attacca indipendentemente come un guerriero di 9° livello, simile a una lama danzante".
+Pagina 101A - Statuine del potere meraviglioso, capre d'avorio : Aggiungere alla fine "Ciascuna statuina può essere usate tre volte prima di perdere permanentemente il proprio potere".
+Pagina 101A - Talismano del bene puro: Nell'ultima frase sostituire "Se un Chierico neutrale" con "Se un Chierico neutrale o malvagio".
+Pagina 104A - Mazza +1, disgregatrice: Aggiungere alla fine: "Se viene usata da un personaggio Malvagio riceve 5d4 danni".
+Pagina 107A - Banshee: Aggiunge prima dell'ultima frase: "Possono essere colpite da armi magiche +1 o migliori. Sono inoltre immuni a freddo ed elettricità".
+Pagina 108A - Brunello: Tiro salvezza C9 /  Ultima frase del paragrafo prima del paragrafo "Famiglio": "Il brunello ha un valore di Des 18, e non può esser preso di sorpresa".
+PAgina 108A - Camminatore nel vento: Aggiungere prima dell'ultima frase "L'incantesimo Lentezza danneggia la creatura come una Palla di fuoco".
+Pagina 110A - Verga del ghiaccio -> Bachetta del freddo
+Pagina 111A - Babau: Dadi vita 7+10 -> 7+14.
+Pagina 113A - Marilith: Dadi vita 7+6 -> 7+7.
+Pagina 116A - Vrock: sostituire: "oscurità (entro 3 m)" con "oscurità (entro 6 m)".
+Pagina 117A - Bael: sostituire: "produrre fuoco" con "produrre fiamma".
+Pagina 118A - Erinni: Dadi vita 6+5 -> 6+6.
+Pagina 121A - Gelugon Ferite: 1d4/1d4/1d4/3d4 -> 1d4/1d4/2d4/3d4 - Sostituire "mandibole" -> "mandibole (che infliggono 2d4 danni)" - Aggiungere alla fine: "Una volta al giorno possono anche lanciare tempesta di ghiaccio".
+Pagina 121A - Lemura: Ferite 1d4 -> 1d3.
+Pagina 123A - Drow: Aggiungere alla fine "I Drow hanno un loro linguaggio gestuale, che può essere utilizzato per comunicare tra di loro e i Duergar".
+Pagina 124A - Duergar (nano grigio): Aggiungere alla fine del penultimo paragrafo: "Sono immuni a tutte le illusioni, compreso il Potere illusorio".
+Pagina 125A - Fantasma: "I fantasmi attaccano con un influsso nefasto...nessun tipo di attacco fisico." ->
+"I fantasmi possono attaccare lanciando Giara magica che colpisce una creatura entro 18 metri, dissolvendo l'anima del bersaglio. I fantasmi esistono nel piano etereo, dove possono essere colpiti fisicamente (CA 8) o con incantesimi. I fantasmi possono rendersi parzialmente materializzati nel Piano materiale, dove possono attaccare una creatura fisicamente, facendola invecchiare di 1d4x10 anni. Chi muore ucciso da un fantasma non può essere riportato in vita in alcun modo. I fantasmi resisi visibili sul Piano materiale hanno una CA 0, e possono essere colpiti solo da armi in argento (che infliggeranno metà danno) o armi magiche".
+Pagina 127A - Golem Argilla: Aggiungere alla fine: "Una volta al giorno, il Golem può comportarsi come sotto l'effetto dell'incantesimo Velocità per tre round".
+Pagina 127A - Homunculus: sostituire "cade addormentato per 5d6 turni" con "cade addormentato per 5d6 minuti". Ultima frase, sostituire "paragnosi" con "immagini speculari".
+Pagina 129A - Lamia:  Ferite 1d6 -> 1d4. Sostituire "immagine speculare" con "immagini speculari"
+Pagina 129A - Lammasu:  Aggiungere "Inoltre, queste creature possono rendersi invisibili o trasportarsi tramite porta dimensionale a volontà".
+Pagina 130A - Lich: Dadi vita 12+ -> 11+.
+Pagina 131A - Naga, Spiritico: Sostituire l'ultima frase con: "Lanciano incantesimi come un Chierico di 4° livello e un Mago di 5° livello". 
+Pagina 135A - Remorhaz: Ultima frase 1d10 -> 10d10.
+Pagine 137A - Servitore dell'aere: sostituire "I servitori dell'aere hanno i sensi acuti e vengono presi di sorpresa solo con un risultato di 1-4 su un d6" con
+"I servitori dell'aere riescono a muoversi di soppiatto, sorprendendo l'avversario con un risultato di 1-4 su un d6".Aggiungere alla fine "Questa creatura può essere colpita solo con un'arma magica".
+Pagina 138A - Spunterna: Aggiungere alla fine "Queste creature hanno il 95% di possibilità di sorprendere gli avversari".
+Pagina 139A- Strega della notte: "la vittima non scende a Cos 0 e more" -> "muore". Aggiungere alla fine "Queste creature sono immuni a incantesimi di Sonno, Fascino, Paura, Fuoco e Freddo, così come ad armi non magiche o magiche con bonus minore di +3. Possono usare Portale per richiamare un demone di medio rango o un hamatula, col 50% di probabilità di successo".
+Pagina 141A - Xorn: in "e sorprendono gli avversari con 1-3 su 1d6" sostituire con "1-5 su 1d6". Aggiungere alla fine "Un passaparete lanciato contro di loro infligge 1d10+10 danni".
+Pagina 152A - DV3 Rimuovere Cinghiale, cinghiale gigante
+Pagina 153A - DV7 Aggiungere Cinghiale, cinghiale gigante
+Pagina 153A - Rimuovere Lich (LLEA) da DV12 e inserirlo in DV11
