@@ -30,6 +30,8 @@ Pagina 8A: Mezzelfi alti 1,50m a 1,70m
 Pagina 18A - Paladino, tabella punti vita dopo 10 livello, cambiare i modificatori con:
 +2, +4, +6, +8, +10, +12, +14, +16, +18, +20, +22
 Pagina 25A - Birra scura, birra chiara, Idromele, Vino comune, Vino buono 0,75 kg
+Pagina 31A - Benedizione, aggiungere alla fine di Malasorte "Possono provare ad evitare l'effetto con un tiro salvezza contro incantesimi".
+Pagina 32A - Controllo del tempo atmosferico, aggiungere alla fine: "L'area interessata è di 4d4 * 2,5 km quadrati".
 Pagina 34A - Glifo di interdizione : Secondo paragrafo, ultima frase prima del paragrafo "glifo esplosivo", aggiungere: "La durata è permanente fino a quando il glifo viene fatto scattare".
 Pagina 41A - Calappio : Aggiungere alla fine: "La durata è permanente fino a quando il calappio viene fatto scattare".
 Pagina 51A - Immagini speculari : Aggiungere alla fine "Crea 1d4+1 repliche illusorie".
@@ -53,7 +55,8 @@ Colore sfera prismatica:
 Rosso Colore Dissolto da "Cono di Freddo"
 Arancione Colore Dissolto da "Folata di Vento"
 indaco -> Indaco
-Pagina 79A - Simbolo Arcano: Simbolo della Pazzia: sostituire "(solo guarigione o desiderio possono rimuovere la pazzia)" con "(Solo guarigione, desiderio o ristorare possono rimuovere la pazzia)"
+Pagina 79A - Simbolo Arcano: Simbolo della Pazzia: sostituire "(solo guarigione o desiderio possono rimuovere la pazzia)" con "(Solo guarigione, desiderio o ristorare possono rimuovere la pazzia)".
+Pagina 81A - Terreno Illusorio: Aggiungere alla fine: "L'area influenzata è di 3 metri quadrati per livello".
 Pagina 82A - Trappola Apparente: Durata: Permanente
 Pagina 82A - Trappola di fuoco: Durata: Vedi sotto. Aggiungere alla fine "La durata è permanente fino allo scattare della trappola".
 Pagina 83A - Verbo che acceca: Aggiungere dopo "cecità in una o più creature a sua scelta"  "nel diametro di 9 m".
